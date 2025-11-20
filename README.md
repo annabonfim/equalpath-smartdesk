@@ -34,7 +34,21 @@ Conectando IoT ao aprendizado, reforçando pilares do **Futuro do Trabalho**:
 - Automação  
 - Autogestão baseada em dados  
 - Ambientes inteligentes  
-- Produtividade sustentada por métricas  
+- Produtividade sustentada por métricas
+
+### 🏙️ Onde o SmartDesk seria usado (conceito do projeto)
+
+O SmartDesk não é um dispositivo pessoal, mas sim um equipamento pensado para ficar disponível em **pontos públicos de estudo**, como:
+
+- bibliotecas
+- escolas técnicas
+- centros comunitários
+- coworkings públicos
+- hubs de formação profissional
+
+Como smartphones **não oferecem sensores ambientais externos confiáveis** (temperatura ambiente real, luminosidade do espaço, ergonomia), o SmartDesk fornece uma infraestrutura acessível que qualquer pessoa pode usar gratuitamente.
+
+Isso reforça a missão do EqualPath: **democratizar o reskilling**, oferecendo tanto orientação digital quanto um ambiente físico otimizado para estudo, sem exigir que o usuário tenha hardware próprio.
 
 ---
 
