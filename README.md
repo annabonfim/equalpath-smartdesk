@@ -24,10 +24,31 @@ A solução combina:
 
 O EqualPath SmartDesk monitora:
 
-- 🌡️ Temperatura  
-- 💡 Luminosidade  
+- 🌡️ Temperatura (simulada com potenciômetro)  
+- 💡 Luminosidade (via LDR)  
 - 📈 Score de foco ambiental  
 - ⏱️ Status e tempo da sessão  
+
+### 📚 Referências usadas para definir limites ideais de luz e temperatura
+
+Os valores utilizados foram baseados em **normas internacionais de ergonomia, conforto ambiental e iluminação**:
+
+### 💡 Iluminação ideal para estudo (lux)
+- **500 lux** recomendado para leitura e foco prolongado  
+  **Fonte:** ISO 8995-1 / CIE — *Lighting of Workplaces*  
+- Faixa aceitável: **300–750 lux**  
+  **Fonte:** IESNA (Illuminating Engineering Society) — *Lighting Handbook*
+
+### 🌡️ Temperatura ideal para estudo (°C)
+- Faixa ideal: **22°C a 24°C**  
+  **Fonte:** ASHRAE Standard 55 — *Thermal Environmental Conditions for Human Occupancy*  
+- Valores que prejudicam o foco:  
+  - **> 26°C** → aumenta fadiga e reduz produtividade  
+  - **< 20°C** → desconforto térmico  
+  **Fonte:** WHO — *Indoor Environment Quality Guidelines*
+
+📌 **Observação importante:**  
+Como o protótipo não tinha um sensor real de temperatura, foi utilizado um **potenciômetro** para **simular a variação térmica**. O valor do potenciômetro é convertido internamente para °C apenas para fins de validação da lógica.
 
 Conectando IoT ao aprendizado, reforçando pilares do **Futuro do Trabalho**:
 
