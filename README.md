@@ -39,6 +39,10 @@ Os valores utilizados foram baseados em **normas internacionais de ergonomia, co
 - Faixa aceitável: **300–750 lux**  
   **Fonte:** IESNA (Illuminating Engineering Society) — *Lighting Handbook*
 
+📌 **Observação importante:**  
+Como o sensor LDR **não mede lux real**, e sim intensidade relativa de luz,  
+a faixa recomendada foi **convertida proporcionalmente** para uma zona ideal entre **40% e 70%** da leitura analógica do LDR.
+
 ### 🌡️ Temperatura ideal para estudo (°C)
 - Faixa ideal: **22°C a 24°C**  
   **Fonte:** ASHRAE Standard 55 — *Thermal Environmental Conditions for Human Occupancy*  
