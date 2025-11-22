@@ -236,21 +236,19 @@ _coloque aqui o link do YouTube/Drive_
 
 ---
 
-## 🖼️ 8. Evidências Visuais (Recomendado pela FIAP)
-
-Insira prints das telas:
+## 🖼️ 8. Evidências Visuais
 
 ### 📌 8.1 Circuito Wokwi  
-- Print do ESP32 + sensores + LED + botão
+<img src="./screenshots-iot/circuit.png" width="500" />
 
 ### 📌 8.2 Fluxo Node-RED  
-- Print do flow completo do arquivo `flows-3.json`
+<img src="./screenshots-iot/node-red-flow.png" width="500" />
 
 ### 📌 8.3 Dashboard  
-- Print com gauges, status e switch
+<img src="./screenshots-iot/dashboard.png" width="500" />
 
-### 📌 8.4 Serial Monitor (opcional)  
-- JSONs sendo publicados  
+### 📌 8.4 Serial Monitor
+<img src="./screenshots-iot/serial-monitor.png" width="500" />
 
 ---
 
